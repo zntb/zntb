@@ -21,6 +21,6 @@
     <hr>
     <div align="center">
 
- ![Zntb's github stats](https://github-readme-stats-delta-neon.vercel.app/api?username=zntb&show_icons=true&theme=dark&hide=[%22issues%22]) ![Top Langs](https://github-readme-stats-delta-neon.vercel.app/api/top-langs/?username=zntb&theme=dark&layout=compact)
+ ![Zntb's github stats](https://github-readme-stats-six-phi-38.vercel.app/api?username=zntb&show_icons=true&theme=dark&hide=[%22issues%22]) ![Top Langs](https://github-readme-stats-six-phi-38.vercel.app/api/top-langs/?username=zntb&theme=dark&layout=compact)
 
 </div>
