@@ -13,8 +13,8 @@
     <div>
         <h2 align="center"> About me <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ5bzB1NTFvbmpiMWhnanV3ZGx5ZHlxdDl2NjJxbHFkOHNiam1zOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xr6G5IAqI8JROZKvIA/giphy.gif" width = 32px> </h2>
             <p>
-            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=57E8F3&multiline=true&random=false&width=800&height=100&lines=+I%27m+a+passionate+Full-Stack+Developer+with+a+knack+for+creating;dynamic+and+responsive+web+applications." alt="Typing SVG" /></a>
-            </p>   
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=50&center=true&vCenter=true&width=800&lines=I'm+a+Fullstack+Developer+passionate+about+building+robust%2C;scalable+web+apps.+From+frontend+magic+%E2%9C%A8+with+React%2C;+to+backend+wizardry+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+with+Node+and+Express%2C;+I+love+turning+ideas+into+reality.;Let's+connect+and+create+something+amazing!" alt="Typing SVG" /></a>
+            </p>
         <ul>
             <li>🌱  I'm continuously learning and adapting to new tools and frameworks, in order to find quick and efficient solutions.</li>
             <li>🔭 I’m currently working on NextJS projects.</li>
@@ -48,4 +48,5 @@
 <div align="center">
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/653ebd9a602c6661a57749c1?variant=dark&roadmaps=full-stack%2Creact%2Cjavascript%2Cblockchain" alt="roadmap.sh"/></a>
 </div>
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
