@@ -43,13 +43,13 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=zntb&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true%22%20alt=%22TROPHY">
 </a>
 </div>
-<br>
+<!-- <br> -->
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/653ebd9a602c6661a57749c1?variant=dark&roadmaps=full-stack%2Creact%2Cjavascript%2Cblockchain" alt="roadmap.sh"/></a>
 </div>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <div align="center">
 
