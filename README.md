@@ -53,7 +53,11 @@
 
 <div align="center">
 
-### My coding activity since $\color{#E2782A}{\small\textbf{JUL 28 2024}}$ is:
+<div style="height: 50px">
+
+### My coding activity since <span style="padding-top: 2px; padding-right: 5px; padding-left: 5px;"><sub>![Date Badge](https://img.shields.io/badge/JUL_28_2024-E2782A?style=flat&logo=github)</sub> </span>is:
+
+</div>
 
 [![wakatime](https://wakatime.com/badge/user/e50a2172-b1bc-4f58-8de5-564d8a439691.svg)](https://wakatime.com/@e50a2172-b1bc-4f58-8de5-564d8a439691)
 
