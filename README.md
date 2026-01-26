@@ -120,7 +120,7 @@ I'm a passionate **Full-Stack Developer** with expertise in modern web technolog
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=zntb&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="98%" src="https://github-readme-streak-stats-sage-psi.vercel.app/?user=zntb&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
