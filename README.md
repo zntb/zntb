@@ -44,7 +44,7 @@ I'm a passionate **Full-Stack Developer** with expertise in modern web technolog
 
 **🎯 Current Focus:**
 
-- 🔭 Building scalable applications with **Next.js 15** and **TypeScript**
+- 🔭 Building scalable applications with **Next.js** and **TypeScript**
 - 🌱 Exploring **AI/ML integration** in web applications
 - 🔗 Developing **Smart Contracts** with **Solidity**
 - 🚀 Contributing to **open-source projects**
@@ -104,7 +104,7 @@ I'm a passionate **Full-Stack Developer** with expertise in modern web technolog
 ### 🔗 Blockchain & Web3
 
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum" alt="Blockchain Skills"/>
+  <img src="https://skillicons.dev/icons?i=solidity" alt="Blockchain Skills"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="web3.js" width="40" height="40"/>
 </p>
 
@@ -157,10 +157,10 @@ I'm a passionate **Full-Stack Developer** with expertise in modern web technolog
   
 **💼 Open for exciting opportunities in:**
 
-- Full-Stack Development Projects
-- Web3 & Blockchain Applications
-- Open Source Contributions
-- Technical Consulting & Mentoring
+\- Full-Stack Development Projects\
+\- Web3 & Blockchain Applications\
+\- Open Source Contributions\
+\- Technical Consulting & Mentoring
 
 **📫 Reach out to me:**
 
