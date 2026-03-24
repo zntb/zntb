@@ -115,8 +115,8 @@ I'm a passionate **Full-Stack Developer** with expertise in modern web technolog
 ## 📊 GitHub Analytics
 
 <div align="center" style="display: flex; justify-content: space-between;">
-<a href="https://github-readme-stats-orpin-xi-53.vercel.app/api?theme=tokyonight&username=zntb&show_icons=true"><img height="200" src="https://github-readme-stats-orpin-xi-53.vercel.app/api?theme=tokyonight&username=zntb&show_icons=true" alt="GitHub Stats Card" /></a>
-<a href="https://github-readme-stats-orpin-xi-53.vercel.app/api/top-langs?theme=tokyonight&username=zntb&layout=compact&langs_count=8"><img height="200" src="https://github-readme-stats-orpin-xi-53.vercel.app/api/top-langs?theme=tokyonight&username=zntb&layout=compact&langs_count=8" alt="GitHub Stats Card" /></a>
+<a href="https://github-readme-stats-orpin-xi-53.vercel.app/api?theme=tokyonight&username=zntb&show_icons=true&hide_border=true"><img height="200" src="https://github-readme-stats-orpin-xi-53.vercel.app/api?theme=tokyonight&username=zntb&show_icons=true&hide_border=true" alt="GitHub Stats Card" /></a>
+<a href="https://github-readme-stats-orpin-xi-53.vercel.app/api/top-langs?theme=tokyonight&username=zntb&layout=compact&langs_count=8&hide_border=true"><img height="200" src="https://github-readme-stats-orpin-xi-53.vercel.app/api/top-langs?theme=tokyonight&username=zntb&layout=compact&langs_count=8&hide_border=true" alt="GitHub Stats Card" /></a>
 </div>
 
 <div align="center">
