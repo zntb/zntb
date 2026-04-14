@@ -193,6 +193,8 @@ const developer = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zntb&color=00d8ff&style=for-the-badge&label=Profile+Views)
 
-_"Code is like humor. When you have to explain it, it's bad." – Cory House_
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/quotes?theme=tokyonight&quote=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.&author=Cory+House&textAlign=center&authorAlign=center" alt="Quote" />
+</div>
 
 </div>
